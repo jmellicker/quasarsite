@@ -11,9 +11,10 @@
 
       <div class="row full-width" align="center" style="text-align: left;">
         <!-- <img alt="Quasar goes everywhere" src="~assets/quasar_goes_everywhere.png" style="width: 100%;"> -->
-        <div class="col" style="padding: 2rem; line-height: 1.8rem;">
-          <h3 style="margin-bottom: 1rem;">What is Quasar?</h3>
-          <p>Quasar is a complete solution for building any kind of awesome experience for browser, server, mobile and desktop app you can dream of.</p>
+        <div class="col" style="padding: 2rem; line-height: 1.8rem; color: #777;">
+          <h3 style="margin-bottom: 1rem; color: #027be3;">What is Quasar?</h3>
+          <p>Quasar is a complete solution for building any kind of awesome experience for browser,
+            server, mobile or desktop app you can dream up.</p>
           <!-- <p>Ever wish there was just one comprehensive front end solution you could master and use that
             offered everything you need to build anything you can dream up?</p>
           <p>You found it!</p> -->
@@ -21,9 +22,9 @@
              Webpack, Cordova and Electron, Quasar is jam-packed with features and power,
              from an extensive component and CSS library to a suite of utilities to
              make your development experience fast and fun.</p>
-          <p>Thousands of companies and developers around the world are using Quasar in production to build world class web applications,
+          <p>Thousands of companies and developers around the world are currently using Quasar in production to build world class web applications,
              mobile apps and desktop apps for major brands.</p>
-          <p>Developers are switching to Quasar every day... will you be one of them?</p>
+          <p>More and more developers are discovering and switching to Quasar every day... maybe you'll join the the QuasarDev revolution too!</p>
         </div>
         <div class="col" style="padding: 2rem; line-height: 1.8rem;">
           <img alt="Quasar goes everywhere" src="~assets/quasar_goes_everywhere.png" style="width: 100%;">
@@ -48,8 +49,8 @@
           </ul>
           Quasar takes care of all these and more - no configuration needed.
         </div>
-        <div class="col" style="padding: 2rem; line-height: 1.8rem;">
-          <h4 align="center" style="margin: 1rem;">Wide platform support</h4>
+        <div class="col" style="padding: 2rem; line-height: 1.8rem; color: #777;">
+          <h4 align="center" style="margin: 1rem; color: #027be3;">Wide platform support</h4>
           <p>Code once, deliver anywhere.</p>
           <ul>
             <li>browser support: Google Chrome, Firefox, IE11/Edge, Safari, Opera, iOS, Android, Windows Phone, Blackberry and more</li>
@@ -80,6 +81,36 @@
         </div>
       </div>
     </div>
+
+    <div class="row full-width" align="center" style="text-align: left;">
+        <div class="col" style="padding: 2rem; background: #027be3; line-height: 1.8rem; color: #fff;">
+          <h4 align="center" style="margin: 1rem;">Superpowers.</h4>
+          <p>Quasar comes with a suite of utilities right in the box that make it far more than just a component/CSS library:</p>
+          <ul>
+            <li>touch and mouse actions</li>
+            <li>extensive date formatting and manipulation utilities</li>
+            <li>built-in cookie and local storage handling</li>
+            <li>scroll utilities like infinite scroll, scroll fire and more for creative experiences</li>
+            <li>comprehensive animation support</li>
+            <li>integrated i18n support</li>
+            <li>If an RTL language pack is used, the interface reverses order automagically!</li>
+            <li>color utilities</li>
+            <li>parallax component</li>
+            <li>so much more, see the docs</li>
+          </ul>
+          Stop hunting around for libraries as you work... Quasar's got you!
+        </div>
+        <div class="col" style="padding: 2rem; line-height: 1.8rem; color: #777;">
+          <h4 align="center" style="margin: 1rem; color: #027be3;">Awesome community</h4>
+          <p>The rapidly growing community of QuasarDevs are generous with their expertise.</p>
+          <p>Join us on:</p>
+          <ul>
+            <li>our Discord channel</li>
+            <li>our forum</li>
+            <li>Stack Overflow</li>
+          </ul>
+        </div>
+      </div>
 
   </q-page>
 </template>
